@@ -1,0 +1,8 @@
+package com.bingo.code.example.facade;
+
+public class TV {
+
+    public void open(){
+        System.out.println("TV has been opened!");
+    }
+}
