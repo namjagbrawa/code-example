@@ -1,0 +1,10 @@
+package com.bingo.code.example.design.strategy.template;
+
+/**
+ * ʵ�־�����㷨
+ */
+public class ConcreteStrategyA extends AbstractClass {
+	protected  void stepOneOpe(){}
+	protected  void stepTwoOpe(){}
+}
+
